@@ -119,12 +119,6 @@ This project implements a dual-axis light tracking system using the STM3210E EVA
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
 ## References
 
 1. STM32F103 Reference Manual
