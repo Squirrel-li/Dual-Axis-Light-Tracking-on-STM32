@@ -114,8 +114,8 @@ This project implements a dual-axis light tracking system using the STM3210E EVA
 
 ## Author
 
-- **Name**: [Your Name]
-- **Contact**: [Your Email]
+- **Name**: Song-Hao, Lee
+- **Contact**: lisong20050429@gmail.com
 
 ---
 
